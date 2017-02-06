@@ -1,0 +1,13 @@
+rtl_433_path = 'rtl_433'
+frequency = '868250000'
+ws_id = 62 # ID of WH1080
+
+idx = {'wind': 431,
+       'th': 430}
+
+mqtt_host = '127.0.0.1'
+mqtt_port = 1883
+mqtt_topic = 'domoticz/in'
+mqtt_username = ''
+mqtt_password = ''
+
